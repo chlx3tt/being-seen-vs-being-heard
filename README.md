@@ -1,6 +1,6 @@
 # Employee Communications Analytics — Fall 2026 Briefing
 
-**Video briefing:** [PASTE UNLISTED YOUTUBE LINK HERE]
+**Video briefing:**(https://youtu.be/I62ud5s16IA)
 
 Analysis of Viva Engage post performance, September 1 – November 30, 2026
 (42 posts), prepared for the CIBC Data Analyst, Employee Communications
