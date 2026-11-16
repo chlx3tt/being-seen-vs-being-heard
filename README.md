@@ -56,7 +56,7 @@ team/location, because this export cannot show who is being missed.
 
 ## Files
 
-- `analysis.py` — full analysis (Python / pandas); prints every table behind
+- `analysis.ipynb` — full analysis (Python / pandas/ notebook); prints every table behind
   the findings and regenerates the charts.
 - `Employee_Comms_Analytics_Exercise_Dataset.xlsx` — the dataset as provided.
 - `reach_by_post_type.png` — median reach, announcements vs standard.
