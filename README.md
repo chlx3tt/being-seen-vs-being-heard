@@ -58,14 +58,10 @@ team/location, because this export cannot show who is being missed.
 
 - `analysis.py` — full analysis (Python / pandas); prints every table behind
   the findings and regenerates the charts.
-- `findings.py` — the three briefing findings, one short block each, with the
-  output noted in the comments.
-- `charts.py` — the three charts as a standalone script; regenerates the PNGs
-  in `charts/`.
 - `Employee_Comms_Analytics_Exercise_Dataset.xlsx` — the dataset as provided.
-- `charts/reach_by_post_type.png` — median reach, announcements vs standard.
-- `charts/engagement_rate_by_type.png` — median engagement per viewer.
-- `charts/benefits_enrolment.png` — enrolment announcement vs reminder:
+- `reach_by_post_type.png` — median reach, announcements vs standard.
+- `engagement_rate_by_type.png` — median engagement per viewer.
+- `benefits_enrolment.png` — enrolment announcement vs reminder:
   viewers and clicks.
 
 ## Tools
